@@ -5,6 +5,7 @@
 - 🏢 Software Engineer and team lead at **[Polygon Technology](https://polygontechnology.io/)**
 - 🔧 Backend in **PHP / Laravel**, **C# / .NET Core**, **Django** and **Node.js**
 - 🧩 Event-driven microservices with **Kafka** and **RabbitMQ**
+- 🤖 AI-driven development: AI coding tools, RAG search and agent-based automation
 - 🎨 Frontend in **TypeScript**, **React / Next.js** and **Vue**
 - 🚀 Deployments with **Docker**, **Kubernetes**, **AWS** and **DigitalOcean**
 - 🎓 MSc in Computer Science & Engineering, Jahangirnagar University
@@ -20,6 +21,7 @@ Most of my recent work lives in private client repositories.
 | Frontend | TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS |
 | Databases | MySQL, PostgreSQL, Oracle, MongoDB, Redis |
 | Messaging | Kafka, RabbitMQ |
+| AI | AI-driven development life cycle (ADLC), Claude Code, RAG, AI agents and automation |
 | DevOps | Docker, Kubernetes, AWS, DigitalOcean, Jenkins, Nginx, Linux |
 
 ## Get in touch
