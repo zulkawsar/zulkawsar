@@ -2,6 +2,7 @@
 
 **Full-stack developer based in Dhaka, Bangladesh.** I build and ship web applications end to end: backend APIs, frontends, and the infrastructure they run on.
 
+- 🏢 Currently working at **Polygon Technology**
 - 🔧 Backend in **PHP / Laravel**, **C# / ASP.NET Core** and **Node.js**
 - 🎨 Frontend in **TypeScript**, **React / Next.js** and **Vue**
 - 🚀 Deployments with **Docker**, **Kubernetes** and **AWS**
