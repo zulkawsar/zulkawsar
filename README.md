@@ -1,8 +1,8 @@
 # Hi, I'm Zul Kawsar 👋
 
-**Senior Software Engineer based in Dhaka, Bangladesh, with 8+ years of experience.** I build and ship web applications end to end: backend APIs, frontends, and the infrastructure they run on.
+**Software Engineer based in Dhaka, Bangladesh, with 8+ years of experience.** I build and ship web applications end to end: backend APIs, frontends, and the infrastructure they run on.
 
-- 🏢 Senior Software Engineer and team lead at **[Polygon Technology](https://polygontechnology.io/)**
+- 🏢 Software Engineer and team lead at **[Polygon Technology](https://polygontechnology.io/)**
 - 🔧 Backend in **PHP / Laravel**, **C# / .NET Core**, **Django** and **Node.js**
 - 🧩 Event-driven microservices with **Kafka** and **RabbitMQ**
 - 🎨 Frontend in **TypeScript**, **React / Next.js** and **Vue**
